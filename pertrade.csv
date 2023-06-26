@@ -1,0 +1,28 @@
+,All trades,Short trades,Long trades
+Total number of round_trips,18,9,9
+Percent profitable,0.5556,0.4444,0.6667
+Winning round_trips,10,4,6
+Losing round_trips,8,5,3
+Even round_trips,0,0,0
+Total profit,5497.31,-1030.88,6528.19
+Gross profit,9294.65,1493.02,7801.63
+Gross loss,-3797.34,-2523.9,-1273.44
+Profit factor,2.4477,0.5916,6.1264
+Avg. trade net profit,305.4061,-114.5422,725.3544
+Avg. winning trade,929.465,373.255,1300.2717
+Avg. losing trade,-474.6675,-504.78,-424.48
+Ratio Avg. Win:Avg. Loss,1.9581,0.7394,3.0632
+Largest winning trade,4507.56,810.6,4507.56
+Largest losing trade,-915.74,-915.74,-914.34
+Avg duration,19 days 05:12:50,6 days 21:05:40,31 days 13:20:00
+Median duration,8 days 11:59:00,7 days 01:59:00,16 days 00:00:00
+Longest duration,158 days 00:00:00,14 days 23:59:00,158 days 00:00:00
+Shortest duration,03:59:00,03:59:00,1 days 21:00:00
+Avg returns all round_trips,0.0444,-0.0142,0.0945
+Avg returns winning,0.099,0.0162,0.1487
+Avg returns losing,-0.0431,-0.0446,-0.041
+Median returns all round_trips,0.0026,-0.0079,0.062
+Median returns winning,0.0537,0.0026,0.0774
+Median returns losing,-0.0257,-0.0257,-0.041
+Largest winning trade,0.4957,0.0455,0.4957
+Largest losing trade,-0.0916,-0.0916,-0.0814
